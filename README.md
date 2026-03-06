@@ -8,10 +8,6 @@
 >
 > If you are starting a new project, we recommend using **GeCo2**.
 
- 	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-unified-architecture-for-low-shot/few-shot-object-counting-and-detection-on)](https://paperswithcode.com/sota/few-shot-object-counting-and-detection-on?p=a-novel-unified-architecture-for-low-shot)  	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-unified-architecture-for-low-shot/object-counting-on-fsc147)](https://paperswithcode.com/sota/object-counting-on-fsc147?p=a-novel-unified-architecture-for-low-shot)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-unified-architecture-for-low-shot/exemplar-free-counting-on-fsc147)](https://paperswithcode.com/sota/exemplar-free-counting-on-fsc147?p=a-novel-unified-architecture-for-low-shot)
 
 
 This repository holds the official Pytorch implementation for the paper [A Novel Unified Architecture for Low-Shot Counting by Detection and Segmentation](https://arxiv.org/pdf/2409.18686) accepted at NeurIPS 2024.
@@ -122,6 +118,7 @@ sbatch train.sh
 
 
 https://github.com/user-attachments/assets/e61c791d-389a-486e-a1bd-3713455df0a9
+
 
 
 
