@@ -1,5 +1,12 @@
 # GeCo (A Novel Unified Architecture for Low-Shot Counting by Detection and Segmentation)
 
+> ⚠️ **Note:** This repository contains the original **GeCo** implementation from our NeurIPS 2024 paper.  
+> A newer and improved version, **GeCo2**, is now available with **faster inference, lower GPU requirements, training on more data, and stronger performance**.  
+>
+> 👉 **GeCo2 repository:** https://github.com/jerpelhan/GECO2  
+> 👉 **Interactive demo:** https://huggingface.co/spaces/jerpelhan/GECO2-demo/
+>
+> If you are starting a new project, we recommend using **GeCo2**.
 
  	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-unified-architecture-for-low-shot/few-shot-object-counting-and-detection-on)](https://paperswithcode.com/sota/few-shot-object-counting-and-detection-on?p=a-novel-unified-architecture-for-low-shot)  	
@@ -115,6 +122,7 @@ sbatch train.sh
 
 
 https://github.com/user-attachments/assets/e61c791d-389a-486e-a1bd-3713455df0a9
+
 
 
 
